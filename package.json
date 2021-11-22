@@ -1,0 +1,24 @@
+{
+  "author": {
+    "name": "zl",
+    "email": "zhanglong_hn@163.com"
+  },
+  "bin": {
+    "zl-ftp": "./index.js"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "上传文件夹到ftp服务器",
+  "homepage": "https://github.com/zlongCoding/uploadFileToFtpServer#readme",
+  "keywords": [
+    "ftp"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "zl-ftp",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:zlongCoding/uploadFileToFtpServer.git"
+  },
+  "version": "1.0.1"
+}
