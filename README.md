@@ -1,5 +1,5 @@
 # zl-ftp用法
-> zl-ftp
+> yarn add zl-ftp
 
 在package.json的同级目录下创建`ftp.config.js`文件导出ftp服务器配置，例
 
